@@ -14,7 +14,7 @@ public class day1 {
 	{
 		System.out.println("I will execute last");
 		System.out.println("I will execute last2");
-		System.out.println("I will execute last");
+		System.out.println("I will execute last3");
 	}
 	@Test
 	public void Demo()
