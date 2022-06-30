@@ -1,5 +1,6 @@
 package test;
 
+import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -16,5 +17,10 @@ public class day2 {
 	public void prerequiste()
 	{
 		System.out.println("I will execute first");
+	}
+	public void Demo()
+	{
+		System.out.println("SWWWWAAATIIIIIII");//automation
+		Assert.assertTrue(false);
 	}
 }
