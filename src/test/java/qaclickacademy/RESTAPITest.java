@@ -27,6 +27,11 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwddtter");
 		
+	}
+	@Test
+	public void deleteTwitter123()
+	{
+		System.out.println("deleteTwddttaaaer");
 		
 	}
 }

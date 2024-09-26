@@ -28,6 +28,10 @@ public class SeleniumTest {
 	{
 		System.out.println("elementfdsUi");	
 	}
+	public void elementsU1ssdi()
+	{
+		System.out.println("elementfaaaadsUi");	
+	}
 	
 	
 }
