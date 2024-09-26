@@ -1,5 +1,10 @@
 package qaclickacademy;
 
-public class demo {
+public class demo 
+{
+	private void Syso() 
+	{
+		// TODO Auto-generated method stub
 
+	}
 }

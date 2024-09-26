@@ -24,7 +24,12 @@ public class RESTAPITest {
 	
 
 		System.out.println("Hey");
+<<<<<<< HEAD
 
+=======
+		System.out.println("Hello");
+		System.out.println("HAHHAAAHHAHAHA");
+>>>>>>> ae13dfa93d62b1d365c4d5d35e7c0399ddf32e74
 	}
 	
 	@Test
