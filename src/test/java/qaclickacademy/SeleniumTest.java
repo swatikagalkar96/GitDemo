@@ -11,7 +11,7 @@ public class SeleniumTest {
 	{
 		System.out.println("BrowserAUtomation");	
 		
-		System.out.println("Web automation");	
+		System.out.println("Web automationn");	
 	}
 	@Test
 	public void elementsUi()
