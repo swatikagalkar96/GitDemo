@@ -22,8 +22,11 @@ public class RESTAPITest {
 		System.out.println("postJira7");
 		System.out.println("postJira8");
 		///
+<<<<<<< HEAD
 		
 		//naaahah
+=======
+>>>>>>> b61bdc5d071fb7a17f9dbd78dbb4a5f682b2ff03
 		
 		
 		
